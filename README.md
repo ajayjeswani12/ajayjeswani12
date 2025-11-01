@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ajayjeswani12
-- 👀 I’m interested in data analysis and statistical buisness analysis projects
-- 🌱 I’m currently learning statistical softwares 
-- 💞️ I’m looking to collaborate on project related with data analysis 
-- 📫 How to reach me 
+Strategic Data & Insights Analyst with a strong track record in transforming raw messy data into meaningful insights. Proven ability to collaborate across departments, automate reporting, and influence decision-making through data storytelling. Expert in building end-to-end analytics pipelines that translate business goals into meaningful KPIs. Committed to data governance, quality, and continuous improvement with a customer - centric approach while driving impact in dynamic and regulated environments
 
 <!---
 ajayjeswani12/ajayjeswani12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
